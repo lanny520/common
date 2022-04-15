@@ -16,7 +16,7 @@
 
 ================Loon==============
 [Script]
-cron "40 6,17 * * *" script-path=https://raw.githubusercontent.com/KingRan/KR/main/jd_fcwb_help.js,tag=发财挖宝
+cron "12 12 12 12 *" script-path=https://raw.githubusercontent.com/KingRan/KR/main/jd_fcwb_help.js,tag=发财挖宝
 
 ===============Surge=================
 发财挖宝 = type=cron,cronexp="40 6,17 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/KingRan/KR/main/jd_fcwb_help.js
